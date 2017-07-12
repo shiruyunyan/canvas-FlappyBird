@@ -34,6 +34,5 @@
         return cv.getContext('2d');
     };
 
-
     window.Fly=FlyObj;
 })(window);
